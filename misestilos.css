@@ -1,0 +1,86 @@
+    body{
+    font-family:sans-serif;
+    background-color: rgb(181, 237, 218);
+    margin: 20px;       
+    }
+    .encabezados {
+    font-family:Georgia;
+    color: rgb(42, 0, 100); 
+    background-color: rgb(184, 215, 247);
+    margin:20px 0;
+    border: 2px solid rgb(177, 176, 176); 
+    padding: 10px;
+
+      
+    }
+    h1{
+    font-family:cursive;
+    font-size:30px;
+    text-align: left;
+    color:rgb(0, 0, 0)   
+    }
+    p {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        /* Establece el tamaño del texto a 16 píxeles */
+    }
+    .minicaja {
+        margin-top: 1%;
+        color:rgb(236, 255, 255);
+        text-align: center;
+        font-weight: bold;
+        background-color: rgb(155, 60, 60);
+        border: 0.25pt solid rgb(85, 84, 84);
+        /* Establece un borde sólido de 2 píxeles de color negro */
+        padding: 5px;
+        /* Establece un relleno de 5 píxeles dentro de la caja */
+        width: 200px;
+        height: 450px;            
+    }
+    #Misterio{
+    font-family:inherit;
+    font-weight: bold;
+    color:rgb(172, 4, 29);
+    background-color:rgb(149, 158, 160);
+    margin: 20px;
+    border: 2px solid black; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 2%;
+    padding-right: 2%;      
+    }
+    #Ficción{
+    font-family:inherit;
+    font-weight: bold;
+    color:rgb(250, 248, 253);
+    background-color:rgb(20, 56, 67);
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 2%;
+    padding-right: 2%;  
+    }
+    #Fantasía{
+    font-family:inherit;
+    color:rgb(77, 50, 121)
+    }
+    #Historia{
+    font-family:inherit;
+    color:rgb(5, 66, 48)
+    }
+    #Poesía{
+    font-family:inherit;
+    color:rgb(231, 10, 10)
+    }
+    
+    footer {
+    background-color: rgb(209, 199, 108);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    padding: 2px;
+    border-radius: 5%;
+    text-align: center;
+    }
